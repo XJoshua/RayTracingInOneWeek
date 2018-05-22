@@ -1,3 +1,9 @@
+# Some VS files
+*.vcxproj*
+*/Debug
+/Debug
+/.vs
+
 # Prerequisites
 *.d
 
