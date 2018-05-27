@@ -3,11 +3,11 @@
 #include <iostream>
 #include <fstream>
 
-#include "header/vec3.h"
-#include "header/sphere.h"
-#include "header/ray.h"
-#include "header/camera.h"
-#include "header/hitablelist.h"
+#include "vec3.h"
+#include "sphere.h"
+#include "ray.h"
+#include "camera.h"
+#include "hitablelist.h"
 
 using namespace std;
 
